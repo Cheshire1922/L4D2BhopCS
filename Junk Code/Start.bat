@@ -1,2 +1,2 @@
 @echo off
-Discord.exe 0x71A5D8 0xF0
+Discord.exe 0x724B58 0xF0
