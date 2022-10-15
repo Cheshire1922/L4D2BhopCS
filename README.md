@@ -10,4 +10,6 @@ There are 2 versions, one of them has junk code in it to *possibly* make it more
 # Usage
 Just run *run.bat*  
 if the PlayerBase stops working I may make a tutorial on how to get it  
+(seems like they made it harder to find it using Cheat Engine after an update in ~May, I'm actually struggling)  
+  
 don't ask why it's called Discord.exe xd
