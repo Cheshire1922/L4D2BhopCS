@@ -13,3 +13,7 @@ if the PlayerBase stops working I may make a tutorial on how to get it
 (seems like they made it harder to find it using Cheat Engine after an update in ~May, I'm actually struggling)  
   
 don't ask why it's called Discord.exe xd
+
+
+https://user-images.githubusercontent.com/12105498/197226505-e3ab7026-b426-4006-8b8c-3cfc1cf8169e.mp4
+
